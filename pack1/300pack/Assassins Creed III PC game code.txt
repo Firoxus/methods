@@ -1,0 +1,11 @@
+Allright, since there has been a vip demotion lets test out how's the situation now in the vip section :)
+What you require:
+1: The ability to forge a receipt
+2: An evga gtx card serial, take a look here for the elegible cards: http://anonym.to/?http://www.evga.com/articles/00707/
+3: Create an account, register the serial, set the purchase date at april/may 2013
+4: Contact EVGA support saying that a friend of you said that there was this promotion, but that u didnt know about it and now it appears to be closed on the website, tell them that your video card is elegible.
+5: They will ask for a proof of purchase, provide them the forged one.
+6: You will receive a serial code that can be entered on the nvidia website, then nvidia will provide you with an ubisoft redeemable code, download ubisoft client and add the serial to your account. you are done :)
+
+PROOF:
+http://img22.imageshack.us/img22/9796/7b6m.jpg

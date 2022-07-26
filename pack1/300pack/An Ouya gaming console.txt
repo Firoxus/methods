@@ -1,0 +1,31 @@
+So this was a pretty easy SE, all though they take years to respond to you. Depending on your excuse, they'll only send the console, but I've gotten them to send the console and a controller
+
+Prerequisites:
+
+1. Twitter. You need to bitch at 3 people in order for your ticket to be responded to. Otherwise your ticket will take ages to respond to. 
+
+2. Basic photoshop skills. You will need to photoshop the serial you've made up on the ouya box and take a picture of it. I'm pretty sure you can bypass this, haha.
+
+3. An Ouya serial. If you also want a controller you will also need a controller serial. Lucky for you, I've provided both in the method!
+
+Method:
+
+1. Go to http://support.ouya.tv and make an account. Then, submit a support ticket. You can make one for both console and controller. You will need serials for both; These are really easy to make up because I doubt they verify since their company is atrocious. Here's the format of one I've used: 10NA3173000XXXX (X = number)
+2a. If you're going for a controller too, they will also need a serial. Again, here's the format of one I've used: NS13140XXXX
+
+2. Make or use your twitter account and make a tweet directed to "@juhrman" and "@OuyaSUPPORT and @PlayOUYA"
+
+If you have no idea what I'm talking about, just follow this generic support tweet: "Hey, I've bought an ouya console and it's been nothing but problems and support has been no help! @juhrman @OuyaSUPPORT @PlayOUYA!"
+
+3. Go through their basic support. After all of their troubleshooting has failed, they will ask you to take a picture of the serial. I'm pretty sure you can find a picture on the web, but if not, PM me.
+
+4. They will send you a google docs link with your mailing address and the serial(s) of your console or controller. Fill it out and they'll send everything out!
+
+5. Enjoy (or sell) your new Ouya!
+
+NOTE: 
+
+
+They do not send out the power supply for the console. So what you'll need to do is once you get it, mention your old power supply does not work with the new console or something along those lines.
+You will get your Ouyas in like ~3-5 days.
+

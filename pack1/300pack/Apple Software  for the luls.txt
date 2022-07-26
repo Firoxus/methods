@@ -1,0 +1,23 @@
+So here's one of the more basic SE's you can do. The software in question is one of the following:
+
+
+iWork - Single or Family Pack 
+Snow Leopard - Single or Family Pack 
+MS Office 2011 for Mac (takes a bit more effort) 
+
+ 
+TEXT RUSH INC
+
+It does require an initial investment, and also requires you to have the serial number for an older Mac, anything between 2000 and 2006 that runs PowerPC will work.
+
+So essentially what you do is buy the software. Around 1-2 days after it arrives (DO NOT OPEN IT), call in to 1-800-MY-APPLE and go through the prompts. If you get to a call director, don't tell them anything important, just keep saying "I need to get to a Mac tech/adviser/pro/whatever" and they will eventually get you to a Mac adviser. Give them your serial number, name, phone, etc... Then they will ask why you're calling in and you say something around "Ya I bought <insert product here> a week ago from your online sales department but it won't install, I just insert the CD and it doesn't do anything."
+
+Now this part can go two ways: They will either be smart and realize your system is PowerPC and the software isn't compatible with PowerPC. If this is the case, they will tell you that it's not compatible. Sound all upset (but not pissed) and say that you called in to buy it and they told you over again that it WAS compatible with your computer Make sure that the adviser knows that you've already opened it and tried installing it. The point here is to be upset at some imaginary phone sales rep, but you want the tech to be on your side here. They will then get your order # and talk to sales support, if all goes well the sales support will apologize that they pushed the sale on you, and will tell you that you cannot return the product because it's already opened. Just keep sounding upset, and they will end up crediting your card for the full amount (first time i did this the support dude did it before i even explained what was going on).
+
+Now there are the occasional time you will get a stupid rep and they will try to push a $49 support agreement on you. Here you just tell them that you talked to the sales rep before purchasing it and they told you that you got 90 days of support with this purchase. Then just continue on and start hinting that you're not sure it's compatible with your computer. Then repeat as above.
+
+Now I know most people won't want to make this initial investment, but I did the call-ins with a friend putting the money up-front and he made ~$300 from this in around 3-4 call-ins just by selling the software locally. Especially the Office 2011 which he managed to nab $80 each copy.
+
+Now if you want to do it more than once, make sure you use a debit card and you change the billing on the card, phone #, and email address each time, as that's the info they use to find out if they've already made an exception or not. I just used a few drop houses and skype.
+
+As a side note: You want to keep it wrapped regardless, if they refuse to grant it for whatever reason (such as M$ office) you always have the original you can return if you pussy out.
