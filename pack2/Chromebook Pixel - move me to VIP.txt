@@ -1,0 +1,23 @@
+Now VIP exclusive! 
+
+Chromebook Pixel.
+
+So, uh, this is a really expensive (and very bad) laptop. Google does AR so long as you have the serial and a VCC with the full retail amount of the laptop on it. The method is to get around the hold.
+
+Let's begin:
+
+Get a serial. Call 1-855-31-PIXEL, say you can't get it to power on. They will try to look it up on your Google account and complain about it not being registered. Say you never signed into Chrome OS, you installed Linux immediately. I said I got mine at Google i/o for free, but it doesn't matter.
+
+They will email you link to setup the RMA. This process requires a VCC with the current retail price of the Pixel on it. You won't do this, you'll call back. Part 1 is over.
+
+Part 2: Push
+
+Call back and complain about that gay ass hold. Say it isn't acceptable to be without that much money for an unknown amount of time. Ask to speak to a lead. They will setup a call back from a lead. 
+
+The lead will call you and repeat policy. Push back one last time. The lead will place you on hold and contact a higher-up person. He'll get back on the phone with authorization to replace your laptop. Done. Laptop will arrive via Fedex in retail packaging. Best part: Google doesn't blacklist the laptop, the original or the one one.
+
+proof: http://i.imgur.com/EjarY3E.png (i also have a few photos of the laptop itself if anyone wants them. if mods want the rest of the emails where it shows we are talking about the Pixel and not any other Chromebook, let me know.)\
+
+---
+
+Edit: i am still playing with the serial, but it looks like the second digit can be changed to any other number and still remain valid

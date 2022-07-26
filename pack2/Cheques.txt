@@ -1,0 +1,14 @@
+As we all know, if you want to SE a cheque you have to give them your real info. That is, up until now. 
+Recently, PayPal has made a service where you can cash in a cheque through their mobile application.
+As long as the name matches the name on the cheque, this should cash into your balance. 
+
+1. Make fake PayPal account. Make sure it is US and has the correct name on it. I would also use a VPN if you don't want your legit account limited.
+2. SE the cheque. I won't go into many details here, there are multiple ways to do it, many tutorials on the first page.
+3. Log into your PayPal, go into your balance details (http://bit.ly/LzGlim) and click "Add money from checks"
+4. Make sure you sign the back with your SEing name! Very important.
+5. Take snap shots of both the front and back of the cheque. (http://bit.ly/JM6Q2w)
+6. Afterwards, enter the amount for the cheque.
+7. Wait around a week or so, then your PayPal balance should have increased by the amount in the cheque. :)
+There is a limit of $1000 per day, and $3000 per month for cashing in cheques.
+
+Please note: I am NOT responsible if anything happens to your PayPal account if you use this method.

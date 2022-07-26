@@ -1,0 +1,18 @@
+First of all credits to KillerPanda 
+
+Requirements
+
+-iOS Device (iPhone, iTouch, iPad)
+-Debit/Credit (Required to Pay Out)
+-Phone # (Google Voice if you don't have one)
+-I believe this is US residents only. If not please quote me :)
+
+1)Download the app Clover Pay from the App Store.
+
+2)Verify your Phone Number, preferably by voice as I believe it is easier than verifying by text.
+
+3)On your iDevice, visit https://www.clover.com/a?inv&t=2djf0ddh8g30 in Safari. (If it says something similar to this, than you need to find a different invite)
+
+4)It should then take you back to the main Clover Pay App, and ask you a few more questions, such as your name, and to enter a PIN Number. (PIN can be anything like 1234)
+
+5)After you enter your PIN, you'll be given $5 which can be immediately withdrawn to either a Bank Account, PayPal, or as a Amazon Giftcard. (Debit Card or CC is required to verify identity)

@@ -1,0 +1,50 @@
+http://www.instash.com/wp-content/uploads/2010/10/dyson-air-multiplier-table-fan.jpg
+Ok, So you know those cool (and Expensive) Air Multipliers that Dyson started selling earlier this year? Well here is how you can get one. The model i will be helping you on is the AM01 Table Fan 10 inch, White and Blue.
+
+You will need a SN:
+
+White SN Algorithm (Click Here to See):
+
+X = Random Number
+KA3-US-BDAXXXXA
+
+Example: KA3-US-BDA1234A
+ 
+Blue SN Algorithm (Click Here to See):
+
+X = Random Number
+KP9-US-EBAXXXXA
+
+Example: KP9-US-EBA1234A
+
+You May or May not need to make a fake persona... If you do you can use;
+
+http://www.fakenamegenerator.com/
+
+
+Ok, Now we need a good receipt (Make sure the place sells the Dyson's) :
+I recommend my Digital Multi-Receipt Generator(Open Source).
+Make sure to add a few other items to the receipt to make it look more realistic. 
+
+Ok next step it Registering the Dyson:
+
+
+http://www.dyson.com/registeryourmachine.aspx
+
+Make the date bought be a few months ago... not just 30 days after.
+
+Call or Email Support:
+
+Do the basic trouble-shooting (Reset n' Shit)
+They May or May Not ask you to send the bad unit back
+
+If they wan't you to send the bad unit;
+
+Box them
+Make a fuss so they say they will Cross shit
+AR (Advanced Replacement)
+
+
+If they ask for a picture of the SN, Download and Edit these pictures:
+Dyson Templates.zip (232 KB)
+https://mega.co.nz/#!fJZlBC7Y!UtV47Qphmp2WH0g4fa74WjGMJ_wyJBCgmLXUyDqwlLA
