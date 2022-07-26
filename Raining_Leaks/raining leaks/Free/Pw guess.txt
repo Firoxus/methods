@@ -1,0 +1,18 @@
+Pw guess meth (only name)
+1. Find a acc
+Examples:
+𝓁𝓊𝒸𝓀𝓎𝓁𝒶𝓃𝒹
+2. Try pw
+Example:
+luckyland
+Luckyland
+luckyland123
+Luckyland123
+luckyland1
+Luckyland1
+
+Pw guess (everything)
+1. Find acc
+Example:
+trumble.69
+2. Try pw=name

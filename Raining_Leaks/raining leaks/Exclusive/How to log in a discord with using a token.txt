@@ -1,0 +1,15 @@
+How to login using a token
+
+1. Go to the discord website, make sure you're signed out
+
+2. Inspect Element (ctrl + shift + i)
+
+3. go to 'Applications' (top right) if it's not there click the arrow and it should be in the dropdown box
+
+4.  Go to 'Local Storage' then press the first dropdown option ( ' https://discord.com/ ' )
+
+5. scroll down all the columns then at the bottom, type in a new column: token  and then on the right type in "YOUR TOKEN HERE"
+
+6. Press enter then exit. Then press 'Open Discord' / 'Log in' 
+
+7. boom youre in the account

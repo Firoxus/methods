@@ -1,0 +1,9 @@
+Pin Cracker
+
+This is a VERY slow pin cracker It might even take days depending on their pin. However this is the most effective pin 
+
+cracking method there is rn. but if you really want to crack their pin, this is better than nothing
+
+you must have python installed for this
+
+github: https://github.com/karlopy/pin-cracker6
